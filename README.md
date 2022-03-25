@@ -1,7 +1,9 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShengYangCode&show_icons=true&theme=radical)
+<a href="https://github.com/ShengYangCode">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ShengYangCode&show_icons=true&count_private=true&hide=issues&hide_title=true" />
+</a>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShengYangCode&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--START_SECTION:waka-->
